@@ -1,0 +1,27 @@
+/**
+ * Receipt Print Styles
+ * 
+ * Ensures receipt maintains proper formatting when printed or downloaded
+ */
+
+.receipt-print {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #000;
+  background: white !important;
+}
+
+@media print {
+  .receipt-print {
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 20px !important;
+    border: 2px solid #000 !important;
+    page-break-after: avoid;
+  }
+  
+  .receipt-print * {
+    color: #000 !important;
+    background: white !important;
+  }
+}
+

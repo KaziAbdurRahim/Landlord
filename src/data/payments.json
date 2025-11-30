@@ -1,0 +1,11 @@
+[
+  {
+    "id": "pay1",
+    "rentalId": "r1",
+    "amount": 12000,
+    "month": "2025-01",
+    "status": "paid",
+    "timestamp": 1704067200000,
+    "method": "bank_transfer"
+  }
+]

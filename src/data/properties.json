@@ -1,0 +1,64 @@
+[
+  {
+    "id": "p1",
+    "ownerId": "u2",
+    "address": "Mirpur 10, Dhaka",
+    "rent": 12000,
+    "available": false,
+    "description": "2-bedroom apartment in Mirpur",
+    "createdAt": "2025-01-01T00:00:00Z",
+    "startDate": "2026-12-09",
+    "endDate": "2027-03-29"
+  },
+  {
+    "id": "p2",
+    "ownerId": "u2",
+    "address": "Gulshan 2, Dhaka",
+    "rent": 25000,
+    "available": false,
+    "description": "3-bedroom luxury apartment",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "id": "p3",
+    "ownerId": "u2",
+    "address": "Dhanmondi, Dhaka",
+    "rent": 18000,
+    "available": false,
+    "description": "Spacious 2-bedroom flat",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "id": "p176445456155237",
+    "ownerId": "u2",
+    "address": "mirpur 13",
+    "rent": 1200,
+    "available": false,
+    "description": "1 bed",
+    "createdAt": "2025-11-29T22:16:01.552Z",
+    "startDate": "2025-12-01",
+    "endDate": "2026-02-01"
+  },
+  {
+    "id": "p1764455639013471",
+    "ownerId": "u2",
+    "address": "new Appt",
+    "rent": 24000,
+    "available": false,
+    "description": "3 bed",
+    "startDate": "2025-12-02",
+    "endDate": "2026-02-02",
+    "createdAt": "2025-11-29T22:33:59.013Z"
+  },
+  {
+    "id": "p1764532120840659",
+    "ownerId": "u2",
+    "address": "Mirpur 10",
+    "rent": 24000,
+    "available": false,
+    "description": "3 bed",
+    "startDate": "2025-12-01",
+    "endDate": "2026-02-01",
+    "createdAt": "2025-11-30T19:48:40.840Z"
+  }
+]

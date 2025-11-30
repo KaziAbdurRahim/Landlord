@@ -1,0 +1,13 @@
+[
+  {
+    "id": "term1764457875206241",
+    "rentalId": "r1",
+    "tenantId": "u1",
+    "requestedEndDate": "2027-01-29",
+    "reason": "",
+    "status": "approved",
+    "createdAt": 1764457875206,
+    "updatedAt": 1764458497996,
+    "landlordId": "u2"
+  }
+]

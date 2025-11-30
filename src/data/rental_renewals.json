@@ -1,0 +1,24 @@
+[
+  {
+    "id": "renew176445444579339",
+    "rentalId": "r1",
+    "tenantId": "u1",
+    "renewalDuration": 12,
+    "requestedStartDate": "2025-01-02",
+    "status": "approved",
+    "createdAt": 1764454445793,
+    "updatedAt": 1764455356945,
+    "landlordId": "u2"
+  },
+  {
+    "id": "renew1764456167303349",
+    "rentalId": "r1",
+    "tenantId": "u1",
+    "landlordId": "u2",
+    "renewalDuration": 12,
+    "requestedStartDate": "2026-01-03",
+    "status": "approved",
+    "createdAt": 1764456167303,
+    "updatedAt": 1764456190902
+  }
+]

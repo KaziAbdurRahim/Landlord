@@ -1,0 +1,8 @@
+Test accounts
+The system includes pre-configured test users:
+Tenant: rahim@gmail.com
+Landlord: karim@gmail.com
+Bank: bank@example.com
+Ministry: ministry@example.com
+Note: In development mode, OTP codes are logged to the browser console for easy testing.
+All code is fully commented, type-safe, and ready for production use (after replacing the mock database and authentication with real implementations)

@@ -1,0 +1,13 @@
+[
+  {
+    "id": "rev1764449833897451",
+    "reviewerId": "u1",
+    "reviewerRole": "tenant",
+    "reviewedId": "u2",
+    "reviewedRole": "landlord",
+    "rentalId": "r1",
+    "rating": 5,
+    "comment": "",
+    "createdAt": 1764449833897
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "u1",
+    "name": "Rahim",
+    "email": "rahim@gmail.com",
+    "role": "tenant",
+    "verified": true,
+    "otp": null,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "id": "u2",
+    "name": "Karim",
+    "email": "karim@gmail.com",
+    "role": "landlord",
+    "verified": true,
+    "otp": null,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "id": "u3",
+    "name": "Bank Officer",
+    "email": "bank@example.com",
+    "role": "bank",
+    "verified": true,
+    "otp": null,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "id": "u4",
+    "name": "Ministry Official",
+    "email": "ministry@example.com",
+    "role": "ministry",
+    "verified": true,
+    "otp": null,
+    "createdAt": "2025-01-01T00:00:00Z"
+  }
+]
