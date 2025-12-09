@@ -1,23 +1,167 @@
 [
   {
     "id": "r1",
-    "tenantId": "u1",
+    "tenantId": "u6",
+    "landlordId": "u5",
     "propertyId": "p1",
-    "startDate": "2026-01-03",
-    "endDate": "2027-01-29",
-    "status": "completed",
-    "monthlyRent": 12000,
-    "createdAt": "2025-01-01T00:00:00Z"
+    "startDate": "2025-01-15",
+    "endDate": "2026-12-31",
+    "status": "active",
+    "monthlyRent": 25000,
+    "createdAt": "2025-01-15T00:00:00Z"
   },
   {
-    "id": "r1764532257444634",
-    "tenantId": "u1",
-    "landlordId": "u2",
-    "propertyId": "p1764532120840659",
-    "startDate": "2025-12-01",
-    "endDate": "2026-04-01",
+    "id": "r2",
+    "tenantId": "u10",
+    "landlordId": "u9",
+    "propertyId": "p4",
+    "startDate": "2025-02-15",
+    "endDate": "2026-12-31",
     "status": "active",
-    "monthlyRent": 24000,
-    "createdAt": "2025-11-30T19:50:57.444Z"
+    "monthlyRent": 10000,
+    "createdAt": "2025-02-15T00:00:00Z"
+  },
+  {
+    "id": "r3",
+    "tenantId": "u11",
+    "landlordId": "u9",
+    "propertyId": "p5",
+    "startDate": "2025-02-20",
+    "endDate": "2026-12-31",
+    "status": "active",
+    "monthlyRent": 9500,
+    "createdAt": "2025-02-20T00:00:00Z"
+  },
+  {
+    "id": "r4",
+    "tenantId": "u12",
+    "landlordId": "u9",
+    "propertyId": "p6",
+    "startDate": "2025-03-01",
+    "endDate": "2026-12-31",
+    "status": "active",
+    "monthlyRent": 9000,
+    "createdAt": "2025-03-01T00:00:00Z"
+  },
+  {
+    "id": "r5",
+    "tenantId": "u13",
+    "landlordId": "u9",
+    "propertyId": "p7",
+    "startDate": "2025-03-05",
+    "endDate": "2026-12-31",
+    "status": "active",
+    "monthlyRent": 8500,
+    "createdAt": "2025-03-05T00:00:00Z"
+  },
+  {
+    "id": "r6",
+    "tenantId": "u15",
+    "landlordId": "u9",
+    "propertyId": "p8",
+    "startDate": "2025-03-15",
+    "endDate": "2026-12-31",
+    "status": "active",
+    "monthlyRent": 8000,
+    "createdAt": "2025-03-15T00:00:00Z"
+  },
+  {
+    "id": "r7",
+    "tenantId": "u16",
+    "landlordId": "u9",
+    "propertyId": "p9",
+    "startDate": "2025-03-20",
+    "endDate": "2026-12-31",
+    "status": "active",
+    "monthlyRent": 7500,
+    "createdAt": "2025-03-20T00:00:00Z"
+  },
+  {
+    "id": "r8",
+    "tenantId": "u17",
+    "landlordId": "u14",
+    "propertyId": "p10",
+    "startDate": "2025-04-01",
+    "endDate": "2026-12-31",
+    "status": "active",
+    "monthlyRent": 10000,
+    "createdAt": "2025-04-01T00:00:00Z"
+  },
+  {
+    "id": "r9",
+    "tenantId": "u18",
+    "landlordId": "u14",
+    "propertyId": "p11",
+    "startDate": "2025-04-05",
+    "endDate": "2026-12-31",
+    "status": "active",
+    "monthlyRent": 9500,
+    "createdAt": "2025-04-05T00:00:00Z"
+  },
+  {
+    "id": "r10",
+    "tenantId": "u19",
+    "landlordId": "u14",
+    "propertyId": "p12",
+    "startDate": "2025-04-10",
+    "endDate": "2026-12-31",
+    "status": "active",
+    "monthlyRent": 9000,
+    "createdAt": "2025-04-10T00:00:00Z"
+  },
+  {
+    "id": "r11",
+    "tenantId": "u20",
+    "landlordId": "u14",
+    "propertyId": "p13",
+    "startDate": "2025-04-15",
+    "endDate": "2026-12-31",
+    "status": "active",
+    "monthlyRent": 8500,
+    "createdAt": "2025-04-15T00:00:00Z"
+  },
+  {
+    "id": "r12",
+    "tenantId": "u21",
+    "landlordId": "u14",
+    "propertyId": "p14",
+    "startDate": "2025-04-20",
+    "endDate": "2026-12-31",
+    "status": "active",
+    "monthlyRent": 8000,
+    "createdAt": "2025-04-20T00:00:00Z"
+  },
+  {
+    "id": "r13",
+    "tenantId": "u22",
+    "landlordId": "u14",
+    "propertyId": "p15",
+    "startDate": "2025-05-01",
+    "endDate": "2026-12-31",
+    "status": "active",
+    "monthlyRent": 7500,
+    "createdAt": "2025-05-01T00:00:00Z"
+  },
+  {
+    "id": "r14",
+    "tenantId": "u23",
+    "landlordId": "u14",
+    "propertyId": "p16",
+    "startDate": "2025-05-05",
+    "endDate": "2026-12-31",
+    "status": "active",
+    "monthlyRent": 7000,
+    "createdAt": "2025-05-05T00:00:00Z"
+  },
+  {
+    "id": "r15",
+    "tenantId": "u24",
+    "landlordId": "u14",
+    "propertyId": "p17",
+    "startDate": "2025-05-10",
+    "endDate": "2026-12-31",
+    "status": "active",
+    "monthlyRent": 6500,
+    "createdAt": "2025-05-10T00:00:00Z"
   }
 ]

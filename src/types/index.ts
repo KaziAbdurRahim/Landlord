@@ -20,8 +20,10 @@ export type UserRole = "tenant" | "landlord" | "bank" | "ministry";
  * - pending: Rental request awaiting approval
  * - completed: Rental agreement that has ended
  * - cancelled: Rental agreement that was cancelled
+ * - renewal_pending: Rental renewal request awaiting approval
+ * - terminating: Rental termination request in process
  */
-export type RentalStatus = "active" | "pending" | "completed" | "cancelled";
+export type RentalStatus = "active" | "pending" | "completed" | "cancelled" | "renewal_pending" | "terminating";
 
 /**
  * Payment status types

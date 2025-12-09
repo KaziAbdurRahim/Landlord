@@ -2,10 +2,622 @@
   {
     "id": "pay1",
     "rentalId": "r1",
-    "amount": 12000,
+    "amount": 25000,
     "month": "2025-01",
     "status": "paid",
     "timestamp": 1704067200000,
+    "method": "bank_transfer"
+  },
+  {
+    "id": "pay2",
+    "rentalId": "r1",
+    "amount": 25000,
+    "month": "2025-02",
+    "status": "paid",
+    "timestamp": 1706745600000,
+    "method": "mobile_banking"
+  },
+  {
+    "id": "pay3",
+    "rentalId": "r1",
+    "amount": 25000,
+    "month": "2025-03",
+    "status": "paid",
+    "timestamp": 1709251200000,
+    "method": "online_payment"
+  },
+  {
+    "id": "pay4",
+    "rentalId": "r1",
+    "amount": 25000,
+    "month": "2025-04",
+    "status": "paid",
+    "timestamp": 1711929600000,
+    "method": "bank_transfer"
+  },
+  {
+    "id": "pay5",
+    "rentalId": "r1",
+    "amount": 25000,
+    "month": "2025-05",
+    "status": "paid",
+    "timestamp": 1714521600000,
+    "method": "mobile_banking"
+  },
+  {
+    "id": "pay6",
+    "rentalId": "r1",
+    "amount": 25000,
+    "month": "2025-06",
+    "status": "paid",
+    "timestamp": 1717200000000,
+    "method": "online_payment"
+  },
+  {
+    "id": "pay7",
+    "rentalId": "r1",
+    "amount": 25000,
+    "month": "2025-07",
+    "status": "paid",
+    "timestamp": 1719792000000,
+    "method": "bank_transfer"
+  },
+  {
+    "id": "pay8",
+    "rentalId": "r1",
+    "amount": 25000,
+    "month": "2025-08",
+    "status": "paid",
+    "timestamp": 1722470400000,
+    "method": "mobile_banking"
+  },
+  {
+    "id": "pay9",
+    "rentalId": "r1",
+    "amount": 25000,
+    "month": "2025-09",
+    "status": "paid",
+    "timestamp": 1725148800000,
+    "method": "online_payment"
+  },
+  {
+    "id": "pay10",
+    "rentalId": "r1",
+    "amount": 25000,
+    "month": "2025-10",
+    "status": "paid",
+    "timestamp": 1727740800000,
+    "method": "bank_transfer"
+  },
+  {
+    "id": "pay11",
+    "rentalId": "r1",
+    "amount": 25000,
+    "month": "2025-11",
+    "status": "paid",
+    "timestamp": 1730419200000,
+    "method": "mobile_banking"
+  },
+  {
+    "id": "pay12",
+    "rentalId": "r2",
+    "amount": 10000,
+    "month": "2025-02",
+    "status": "paid",
+    "timestamp": 1709251200000,
+    "method": "bank_transfer"
+  },
+  {
+    "id": "pay13",
+    "rentalId": "r2",
+    "amount": 10000,
+    "month": "2025-03",
+    "status": "paid",
+    "timestamp": 1711929600000,
+    "method": "mobile_banking"
+  },
+  {
+    "id": "pay14",
+    "rentalId": "r2",
+    "amount": 10000,
+    "month": "2025-04",
+    "status": "paid",
+    "timestamp": 1714521600000,
+    "method": "online_payment"
+  },
+  {
+    "id": "pay15",
+    "rentalId": "r2",
+    "amount": 10000,
+    "month": "2025-05",
+    "status": "paid",
+    "timestamp": 1717200000000,
+    "method": "bank_transfer"
+  },
+  {
+    "id": "pay16",
+    "rentalId": "r2",
+    "amount": 10000,
+    "month": "2025-06",
+    "status": "paid",
+    "timestamp": 1719792000000,
+    "method": "mobile_banking"
+  },
+  {
+    "id": "pay17",
+    "rentalId": "r2",
+    "amount": 10000,
+    "month": "2025-07",
+    "status": "paid",
+    "timestamp": 1722470400000,
+    "method": "online_payment"
+  },
+  {
+    "id": "pay18",
+    "rentalId": "r2",
+    "amount": 10000,
+    "month": "2025-08",
+    "status": "paid",
+    "timestamp": 1725148800000,
+    "method": "bank_transfer"
+  },
+  {
+    "id": "pay19",
+    "rentalId": "r2",
+    "amount": 10000,
+    "month": "2025-09",
+    "status": "paid",
+    "timestamp": 1727740800000,
+    "method": "mobile_banking"
+  },
+  {
+    "id": "pay20",
+    "rentalId": "r2",
+    "amount": 10000,
+    "month": "2025-10",
+    "status": "paid",
+    "timestamp": 1730419200000,
+    "method": "online_payment"
+  },
+  {
+    "id": "pay21",
+    "rentalId": "r2",
+    "amount": 10000,
+    "month": "2025-11",
+    "status": "paid",
+    "timestamp": 1733097600000,
+    "method": "bank_transfer"
+  },
+  {
+    "id": "pay22",
+    "rentalId": "r3",
+    "amount": 9500,
+    "month": "2025-02",
+    "status": "paid",
+    "timestamp": 1709251200000,
+    "method": "bank_transfer"
+  },
+  {
+    "id": "pay23",
+    "rentalId": "r3",
+    "amount": 9500,
+    "month": "2025-03",
+    "status": "paid",
+    "timestamp": 1711929600000,
+    "method": "mobile_banking"
+  },
+  {
+    "id": "pay24",
+    "rentalId": "r3",
+    "amount": 9500,
+    "month": "2025-04",
+    "status": "paid",
+    "timestamp": 1714521600000,
+    "method": "online_payment"
+  },
+  {
+    "id": "pay25",
+    "rentalId": "r3",
+    "amount": 9500,
+    "month": "2025-05",
+    "status": "paid",
+    "timestamp": 1717200000000,
+    "method": "bank_transfer"
+  },
+  {
+    "id": "pay26",
+    "rentalId": "r3",
+    "amount": 9500,
+    "month": "2025-06",
+    "status": "paid",
+    "timestamp": 1719792000000,
+    "method": "mobile_banking"
+  },
+  {
+    "id": "pay27",
+    "rentalId": "r3",
+    "amount": 9500,
+    "month": "2025-07",
+    "status": "paid",
+    "timestamp": 1722470400000,
+    "method": "online_payment"
+  },
+  {
+    "id": "pay28",
+    "rentalId": "r3",
+    "amount": 9500,
+    "month": "2025-08",
+    "status": "paid",
+    "timestamp": 1725148800000,
+    "method": "bank_transfer"
+  },
+  {
+    "id": "pay29",
+    "rentalId": "r3",
+    "amount": 9500,
+    "month": "2025-09",
+    "status": "paid",
+    "timestamp": 1727740800000,
+    "method": "mobile_banking"
+  },
+  {
+    "id": "pay30",
+    "rentalId": "r3",
+    "amount": 9500,
+    "month": "2025-10",
+    "status": "paid",
+    "timestamp": 1730419200000,
+    "method": "online_payment"
+  },
+  {
+    "id": "pay31",
+    "rentalId": "r4",
+    "amount": 9000,
+    "month": "2025-03",
+    "status": "paid",
+    "timestamp": 1711929600000,
+    "method": "bank_transfer"
+  },
+  {
+    "id": "pay32",
+    "rentalId": "r4",
+    "amount": 9000,
+    "month": "2025-04",
+    "status": "paid",
+    "timestamp": 1714521600000,
+    "method": "mobile_banking"
+  },
+  {
+    "id": "pay33",
+    "rentalId": "r4",
+    "amount": 9000,
+    "month": "2025-05",
+    "status": "paid",
+    "timestamp": 1717200000000,
+    "method": "online_payment"
+  },
+  {
+    "id": "pay34",
+    "rentalId": "r4",
+    "amount": 9000,
+    "month": "2025-06",
+    "status": "paid",
+    "timestamp": 1719792000000,
+    "method": "bank_transfer"
+  },
+  {
+    "id": "pay35",
+    "rentalId": "r4",
+    "amount": 9000,
+    "month": "2025-07",
+    "status": "paid",
+    "timestamp": 1722470400000,
+    "method": "mobile_banking"
+  },
+  {
+    "id": "pay36",
+    "rentalId": "r4",
+    "amount": 9000,
+    "month": "2025-08",
+    "status": "paid",
+    "timestamp": 1725148800000,
+    "method": "online_payment"
+  },
+  {
+    "id": "pay37",
+    "rentalId": "r4",
+    "amount": 9000,
+    "month": "2025-09",
+    "status": "paid",
+    "timestamp": 1727740800000,
+    "method": "bank_transfer"
+  },
+  {
+    "id": "pay38",
+    "rentalId": "r5",
+    "amount": 8500,
+    "month": "2025-03",
+    "status": "paid",
+    "timestamp": 1711929600000,
+    "method": "bank_transfer"
+  },
+  {
+    "id": "pay39",
+    "rentalId": "r5",
+    "amount": 8500,
+    "month": "2025-04",
+    "status": "paid",
+    "timestamp": 1714521600000,
+    "method": "mobile_banking"
+  },
+  {
+    "id": "pay40",
+    "rentalId": "r5",
+    "amount": 8500,
+    "month": "2025-05",
+    "status": "paid",
+    "timestamp": 1717200000000,
+    "method": "online_payment"
+  },
+  {
+    "id": "pay41",
+    "rentalId": "r5",
+    "amount": 8500,
+    "month": "2025-06",
+    "status": "paid",
+    "timestamp": 1719792000000,
+    "method": "bank_transfer"
+  },
+  {
+    "id": "pay42",
+    "rentalId": "r5",
+    "amount": 8500,
+    "month": "2025-07",
+    "status": "paid",
+    "timestamp": 1722470400000,
+    "method": "mobile_banking"
+  },
+  {
+    "id": "pay43",
+    "rentalId": "r5",
+    "amount": 8500,
+    "month": "2025-08",
+    "status": "paid",
+    "timestamp": 1725148800000,
+    "method": "online_payment"
+  },
+  {
+    "id": "pay44",
+    "rentalId": "r6",
+    "amount": 8000,
+    "month": "2025-03",
+    "status": "paid",
+    "timestamp": 1711929600000,
+    "method": "bank_transfer"
+  },
+  {
+    "id": "pay45",
+    "rentalId": "r6",
+    "amount": 8000,
+    "month": "2025-04",
+    "status": "paid",
+    "timestamp": 1714521600000,
+    "method": "mobile_banking"
+  },
+  {
+    "id": "pay46",
+    "rentalId": "r6",
+    "amount": 8000,
+    "month": "2025-05",
+    "status": "paid",
+    "timestamp": 1717200000000,
+    "method": "online_payment"
+  },
+  {
+    "id": "pay47",
+    "rentalId": "r6",
+    "amount": 8000,
+    "month": "2025-06",
+    "status": "paid",
+    "timestamp": 1719792000000,
+    "method": "bank_transfer"
+  },
+  {
+    "id": "pay48",
+    "rentalId": "r6",
+    "amount": 8000,
+    "month": "2025-07",
+    "status": "paid",
+    "timestamp": 1722470400000,
+    "method": "mobile_banking"
+  },
+  {
+    "id": "pay49",
+    "rentalId": "r7",
+    "amount": 7500,
+    "month": "2025-03",
+    "status": "paid",
+    "timestamp": 1711929600000,
+    "method": "bank_transfer"
+  },
+  {
+    "id": "pay50",
+    "rentalId": "r7",
+    "amount": 7500,
+    "month": "2025-04",
+    "status": "paid",
+    "timestamp": 1714521600000,
+    "method": "mobile_banking"
+  },
+  {
+    "id": "pay51",
+    "rentalId": "r7",
+    "amount": 7500,
+    "month": "2025-05",
+    "status": "paid",
+    "timestamp": 1717200000000,
+    "method": "online_payment"
+  },
+  {
+    "id": "pay52",
+    "rentalId": "r7",
+    "amount": 7500,
+    "month": "2025-06",
+    "status": "paid",
+    "timestamp": 1719792000000,
+    "method": "bank_transfer"
+  },
+  {
+    "id": "pay53",
+    "rentalId": "r8",
+    "amount": 10000,
+    "month": "2025-04",
+    "status": "paid",
+    "timestamp": 1714521600000,
+    "method": "bank_transfer"
+  },
+  {
+    "id": "pay54",
+    "rentalId": "r8",
+    "amount": 10000,
+    "month": "2025-05",
+    "status": "paid",
+    "timestamp": 1717200000000,
+    "method": "mobile_banking"
+  },
+  {
+    "id": "pay55",
+    "rentalId": "r8",
+    "amount": 10000,
+    "month": "2025-06",
+    "status": "paid",
+    "timestamp": 1719792000000,
+    "method": "online_payment"
+  },
+  {
+    "id": "pay56",
+    "rentalId": "r8",
+    "amount": 10000,
+    "month": "2025-07",
+    "status": "paid",
+    "timestamp": 1722470400000,
+    "method": "bank_transfer"
+  },
+  {
+    "id": "pay57",
+    "rentalId": "r9",
+    "amount": 9500,
+    "month": "2025-04",
+    "status": "paid",
+    "timestamp": 1714521600000,
+    "method": "bank_transfer"
+  },
+  {
+    "id": "pay58",
+    "rentalId": "r9",
+    "amount": 9500,
+    "month": "2025-05",
+    "status": "paid",
+    "timestamp": 1717200000000,
+    "method": "mobile_banking"
+  },
+  {
+    "id": "pay59",
+    "rentalId": "r9",
+    "amount": 9500,
+    "month": "2025-06",
+    "status": "paid",
+    "timestamp": 1719792000000,
+    "method": "online_payment"
+  },
+  {
+    "id": "pay60",
+    "rentalId": "r10",
+    "amount": 9000,
+    "month": "2025-04",
+    "status": "paid",
+    "timestamp": 1714521600000,
+    "method": "bank_transfer"
+  },
+  {
+    "id": "pay61",
+    "rentalId": "r10",
+    "amount": 9000,
+    "month": "2025-05",
+    "status": "paid",
+    "timestamp": 1717200000000,
+    "method": "mobile_banking"
+  },
+  {
+    "id": "pay62",
+    "rentalId": "r10",
+    "amount": 9000,
+    "month": "2025-06",
+    "status": "paid",
+    "timestamp": 1719792000000,
+    "method": "online_payment"
+  },
+  {
+    "id": "pay63",
+    "rentalId": "r11",
+    "amount": 8500,
+    "month": "2025-04",
+    "status": "paid",
+    "timestamp": 1714521600000,
+    "method": "bank_transfer"
+  },
+  {
+    "id": "pay64",
+    "rentalId": "r11",
+    "amount": 8500,
+    "month": "2025-05",
+    "status": "paid",
+    "timestamp": 1717200000000,
+    "method": "mobile_banking"
+  },
+  {
+    "id": "pay65",
+    "rentalId": "r12",
+    "amount": 8000,
+    "month": "2025-04",
+    "status": "paid",
+    "timestamp": 1714521600000,
+    "method": "bank_transfer"
+  },
+  {
+    "id": "pay66",
+    "rentalId": "r12",
+    "amount": 8000,
+    "month": "2025-05",
+    "status": "paid",
+    "timestamp": 1717200000000,
+    "method": "mobile_banking"
+  },
+  {
+    "id": "pay67",
+    "rentalId": "r13",
+    "amount": 7500,
+    "month": "2025-05",
+    "status": "paid",
+    "timestamp": 1717200000000,
+    "method": "bank_transfer"
+  },
+  {
+    "id": "pay68",
+    "rentalId": "r14",
+    "amount": 7000,
+    "month": "2025-05",
+    "status": "paid",
+    "timestamp": 1717200000000,
+    "method": "bank_transfer"
+  },
+  {
+    "id": "pay69",
+    "rentalId": "r15",
+    "amount": 6500,
+    "month": "2025-05",
+    "status": "paid",
+    "timestamp": 1717200000000,
     "method": "bank_transfer"
   }
 ]
