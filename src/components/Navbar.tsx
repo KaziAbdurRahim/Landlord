@@ -1,9 +1,9 @@
 /**
  * Navbar Component
- * 
+ *
  * Top navigation bar component displayed on all dashboard pages.
  * Shows user information and provides logout functionality.
- * 
+ *
  * @param user - Current authenticated user object
  * @param onLogout - Callback function when user clicks logout
  */
@@ -30,7 +30,7 @@ export default function Navbar({ user, onLogout }: NavbarProps) {
           {/* Left side - App name */}
           <div className="flex items-center">
             <h1 className="text-xl font-bold text-blue-600">T-ODRE</h1>
-            <span className="ml-2 text-sm text-gray-500">LandLoard</span>
+            <span className="ml-2 text-sm text-gray-500">Landlord</span>
           </div>
 
           {/* Right side - User info and logout */}
@@ -48,4 +48,3 @@ export default function Navbar({ user, onLogout }: NavbarProps) {
     </nav>
   );
 }
-
